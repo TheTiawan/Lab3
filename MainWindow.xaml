@@ -1,0 +1,32 @@
+﻿<Window x:Class="Lab3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="AliceBlue">
+        <Menu VerticalAlignment="Top" Background="Transparent">
+            <MenuItem Header="Файл">
+                <MenuItem Header="О программе" Click="About_Program_Button_Click"/>
+                <MenuItem Header="Сохранить" Click="Save_Button_Click"/>
+                <MenuItem Header="Открыть" Click="Open_Button_Click"/>
+                <MenuItem Header="Выход" Click="Exit_Button_Click"/>
+            </MenuItem>
+        </Menu>
+        <DataGrid x:Name="DataGrid" Margin="10,18,10,214"/>
+        <GroupBox Header="Матрица" Foreground="Black" Margin="222,225,222,10">
+            <Grid>
+                <TextBox x:Name="String_Matrix_Textbox" HorizontalAlignment="Left" Margin="8,24,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="72" Height="30" ToolTip="Количество строк"/>
+                <TextBox x:Name="Column_Matrix_Textbox" HorizontalAlignment="Left" Margin="91,24,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="72" Height="30" ToolTip="Количество столбцов"/>
+                <TextBox x:Name="Min_Matrix_Range_Textbox" HorizontalAlignment="Left" Margin="8,61,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="72" Height="30" ToolTip="Минимальное значение"/>
+                <TextBox x:Name="Max_Matrix_Range_Textbox" HorizontalAlignment="Left" Margin="91,61,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="72" Height="30" ToolTip="Максимальное значение"/>
+                <TextBox x:Name="Result_Matrix_Textbox" HorizontalAlignment="Left" Margin="8,99,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="155" Height="30" ToolTip="Результат вычислений" IsReadOnly="True"/>
+                <Button x:Name="Fill_Matrix_Button" Content="Заполнить" HorizontalAlignment="Left" Margin="195,24,0,0" VerticalAlignment="Top" Width="139" Height="30" Click="Fill_Matrix_Button_Click"/>
+                <Button x:Name="Count_Matrix_Button" Content="Рассчитать" HorizontalAlignment="Left" Margin="195,61,0,0" VerticalAlignment="Top" Width="139" Height="30" Click="Count_Matrix_Button_Click"/>
+                <Button x:Name="Clear_Matrix_Button" Content="Очистить" HorizontalAlignment="Left" Margin="195,99,0,0" VerticalAlignment="Top" Height="30" Width="139" Click="Clear_Matrix_Button_Click"/>
+            </Grid>
+        </GroupBox>
+    </Grid>
+</Window>
