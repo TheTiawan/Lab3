@@ -1,0 +1,36 @@
+C:\Users\ИСП-31\Desktop\ИСП-31 Халимов\пр3Халимов\WpfLibrary1\bin\Debug\net6.0-windows\WpfLibrary1.deps.json
+C:\Users\ИСП-31\Desktop\ИСП-31 Халимов\пр3Халимов\WpfLibrary1\bin\Debug\net6.0-windows\WpfLibrary1.dll
+C:\Users\ИСП-31\Desktop\ИСП-31 Халимов\пр3Халимов\WpfLibrary1\bin\Debug\net6.0-windows\WpfLibrary1.pdb
+C:\Users\ИСП-31\Desktop\ИСП-31 Халимов\пр3Халимов\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.csproj.AssemblyReference.cache
+C:\Users\ИСП-31\Desktop\ИСП-31 Халимов\пр3Халимов\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ИСП-31\Desktop\ИСП-31 Халимов\пр3Халимов\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.AssemblyInfoInputs.cache
+C:\Users\ИСП-31\Desktop\ИСП-31 Халимов\пр3Халимов\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.AssemblyInfo.cs
+C:\Users\ИСП-31\Desktop\ИСП-31 Халимов\пр3Халимов\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\ИСП-31\Desktop\ИСП-31 Халимов\пр3Халимов\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.dll
+C:\Users\ИСП-31\Desktop\ИСП-31 Халимов\пр3Халимов\WpfLibrary1\obj\Debug\net6.0-windows\refint\WpfLibrary1.dll
+C:\Users\ИСП-31\Desktop\ИСП-31 Халимов\пр3Халимов\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.pdb
+C:\Users\ИСП-31\Desktop\ИСП-31 Халимов\пр3Халимов\WpfLibrary1\obj\Debug\net6.0-windows\ref\WpfLibrary1.dll
+F:\ИСП-31 Халимов\пр3Халимов\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.csproj.AssemblyReference.cache
+F:\ИСП-31 Халимов\пр3Халимов\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+F:\ИСП-31 Халимов\пр3Халимов\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.AssemblyInfoInputs.cache
+F:\ИСП-31 Халимов\пр3Халимов\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.AssemblyInfo.cs
+F:\ИСП-31 Халимов\пр3Халимов\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.csproj.CoreCompileInputs.cache
+F:\ИСП-31 Халимов\пр3Халимов\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.dll
+F:\ИСП-31 Халимов\пр3Халимов\WpfLibrary1\obj\Debug\net6.0-windows\refint\WpfLibrary1.dll
+F:\ИСП-31 Халимов\пр3Халимов\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.pdb
+F:\ИСП-31 Халимов\пр3Халимов\WpfLibrary1\bin\Debug\net6.0-windows\WpfLibrary1.deps.json
+F:\ИСП-31 Халимов\пр3Халимов\WpfLibrary1\bin\Debug\net6.0-windows\WpfLibrary1.dll
+F:\ИСП-31 Халимов\пр3Халимов\WpfLibrary1\bin\Debug\net6.0-windows\WpfLibrary1.pdb
+F:\ИСП-31 Халимов\пр3Халимов\WpfLibrary1\obj\Debug\net6.0-windows\ref\WpfLibrary1.dll
+C:\Users\ИСП-31\Desktop\пр3Халимов\WpfLibrary1\bin\Debug\net6.0-windows\WpfLibrary1.deps.json
+C:\Users\ИСП-31\Desktop\пр3Халимов\WpfLibrary1\bin\Debug\net6.0-windows\WpfLibrary1.dll
+C:\Users\ИСП-31\Desktop\пр3Халимов\WpfLibrary1\bin\Debug\net6.0-windows\WpfLibrary1.pdb
+C:\Users\ИСП-31\Desktop\пр3Халимов\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.csproj.AssemblyReference.cache
+C:\Users\ИСП-31\Desktop\пр3Халимов\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ИСП-31\Desktop\пр3Халимов\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.AssemblyInfoInputs.cache
+C:\Users\ИСП-31\Desktop\пр3Халимов\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.AssemblyInfo.cs
+C:\Users\ИСП-31\Desktop\пр3Халимов\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\ИСП-31\Desktop\пр3Халимов\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.dll
+C:\Users\ИСП-31\Desktop\пр3Халимов\WpfLibrary1\obj\Debug\net6.0-windows\refint\WpfLibrary1.dll
+C:\Users\ИСП-31\Desktop\пр3Халимов\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.pdb
+C:\Users\ИСП-31\Desktop\пр3Халимов\WpfLibrary1\obj\Debug\net6.0-windows\ref\WpfLibrary1.dll
